@@ -1,1 +1,8 @@
-// add styles here
+.movies {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 20px;
+}
+
